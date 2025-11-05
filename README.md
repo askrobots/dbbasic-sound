@@ -24,6 +24,14 @@ Generate 48 different types of sounds across 14 categories:
 
 All sounds are synthesized using harmonic frequencies and ADSR envelopes for natural-sounding audio.
 
+## Pre-Generated Sounds
+
+Don't want to run Python? All 48 sounds are included in the repository:
+- **WAV format**: `generated_sounds/` directory (uncompressed, high quality)
+- **MP3 format**: `generated_sounds_mp3/` directory (compressed, smaller files for web)
+
+Download and use immediately in your projects!
+
 ## Requirements
 
 ```bash
